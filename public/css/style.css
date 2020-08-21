@@ -1,0 +1,26 @@
+.container {
+    margin-top: 50px;
+}
+
+.heading {
+    margin-bottom: 35px;
+    color: brown;
+}
+
+.add-product {
+    margin-bottom: 10px;
+}
+
+form {
+    width: 600px;
+    margin: auto;
+}
+
+.card {
+    margin: auto;
+    width: 700px;
+}
+
+.card .card-header {
+    background-color: rgb(10, 202, 228);
+}
